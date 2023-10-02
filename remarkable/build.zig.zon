@@ -1,0 +1,12 @@
+.{
+    .name = "arcan-rM2-driver",
+    .version = "0.0.1",
+
+    .dependencies = .{
+        .arcan = .{
+            .url = "https://github.com/cipharius/arcan/archive/refs/tags/0.6.2-7d049186558b37c8f3b9d468b69f9857fa67f3e9.tar.gz",
+            .hash = "1220c05be06b2b264d2ef0af6230602c3c2d5595f9e86a7a232e5253545d9b1fded3",
+        },
+
+    }
+}
